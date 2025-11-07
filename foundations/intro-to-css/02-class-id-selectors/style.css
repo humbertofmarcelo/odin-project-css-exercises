@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/*Classes*/
+
+.odd-number{
+    background-color:rgb(255, 141, 175);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font-24{
+    font-size: 24px;
+}
+
+/*IDs*/
+
+#second-element{
+    color: rgb(16, 16, 240);
+    font-size: 36px;
+}
+
+#fourth-element{
+    background-color: rgb(145, 240, 145);
+    font-weight: bold;
+}
