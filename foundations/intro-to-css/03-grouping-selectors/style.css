@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+/*Shared Class Properties*/
+
+.first-element,
+.second-element {
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roman", sans-serif;
+}
+
+/*Unique Class Properties*/
+.first-element{
+    background-color: black;
+    color:white;
+}
+
+.second-element{
+    background-color: yellow;
+}
